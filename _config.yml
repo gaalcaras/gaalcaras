@@ -1,0 +1,36 @@
+# General settings
+title: Gabriel Alcaras
+title_html: "<b>ga</b>briel<b>alcaras</b>"
+description: >
+  Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques
+  et des méthodes quantitatives.
+baseurl: ""
+url: "https://gaalcaras.com"
+
+dateformat: "%e %B %Y" 
+
+# Author
+author: Gabriel Alcaras
+
+email: gabriel.alcaras@ehess.fr
+twitter_username: gaalcaras
+github_username: gaalcaras
+keybase_username: gaalcaras
+linkedin_username: gaalcaras
+author_website: https://sociologs.com
+
+# Nav menu
+nav_ext_links:
+  - name: Blog
+    url: https://sociologs.com
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes"]
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
