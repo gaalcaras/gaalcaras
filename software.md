@@ -25,33 +25,33 @@ Code source disponible sur [Github](https://github.com/gaalcaras/mailingListScra
 
 ### Langages de programmation
 
-| Langage | Niveau | Détails |
-|--------|---------|---------|
-|R| Avancé | Connaissance approfondie de ggplot2, data.table, Shiny |
-|LaTeX| Avancé |  |
-|Python| Intermédiaire |  |
-|JavaScript| Intermédiaire |  |
-|HTML/CSS| Intermédiaire |  |
-|PHP| Basique |  |
-|SQL| Basique |  |
-|Assembleur| Basique |  |
-|Octave| Basique |  |
+| Langage                                | Niveau        | Détails                                                                                              |
+| --------                               | ---------     | ---------                                                                                            |
+| [R](http://cran.r-project.org/)        | Avancé        | Connaissance approfondie de ggplot2, data.table, Shiny.                                              |
+| [LaTeX](http://www.latex-project.org/) | Avancé        | J'utilise [latexmk](http://personal.psu.edu/jcc8//software/latexmk-jcc/) pour compiler mes documents. |
+| Python                                 | Intermédiaire |                                                                                                      |
+| JavaScript                             | Intermédiaire |                                                                                                      |
+| HTML/CSS                               | Intermédiaire |                                                                                                      |
+| PHP                                    | Basique       |                                                                                                      |
+| SQL                                    | Basique       |                                                                                                      |
+| Assembleur                             | Basique       |                                                                                                      |
+| Octave                                 | Basique       |                                                                                                      |
 
 ### Systèmes
 
 
-| Système | Niveau | Détails |
-|--------|---------|---------|
-|Linux| Avancé | ArchLinux sur mes machines personnelles, Ubuntu 16.04 pour mes serveurs. |
-|macOS & Windows| Intermédiaire | Je n'utilise pas ces systèmes quotidiennement.  |
+| Système         | Niveau        | Détails                                                                                                                           |
+| --------        | ---------     | ---------                                                                                                                         |
+| Linux           | Avancé        | [ArchLinux](https://www.archlinux.org/) sur mes machines personnelles, [Ubuntu 16.04](https://www.ubuntu.com/) pour mes serveurs. |
+| macOS & Windows | Intermédiaire | Je n'utilise pas ces systèmes quotidiennement.                                                                                    |
 
 ### Logiciels et outils
 
-| Outils | Niveau | Détails |
-|--------|---------|---------|
-|vim| Ninja | J'utilise NeoVim en particulier, en combinaison avec tmux. |
-|bépo| Avancé | Adepte du bépo depuis 2015 |
-|Zotero| Avancé | |
-|WordPress| Avancé | J'ai administré plusieurs sites WordPress. J'ai également créé des thèmes et des plugins.|
-|git| Intermédiaire | |
-|Jekyll| Intermédiaire | |
+| Outils                              | Niveau        | Détails                                                                                                     |
+| --------                            | ---------     | ---------                                                                                                   |
+| [vim](http://www.vim.org/)          | Ninja         | J'utilise [NeoVim](https://neovim.io/) en particulier, en combinaison avec [tmux](https://tmux.github.io/). |
+| [bépo](http://bepo.fr/wiki/Accueil) | Avancé        | Adepte du bépo depuis 2015                                                                                  |
+| Zotero                              | Avancé        |                                                                                                             |
+| WordPress                           | Avancé        | J'ai administré plusieurs sites WordPress. J'ai également créé des thèmes et des plugins.                   |
+| [git](https://git-scm.com/)         | Intermédiaire |                                                                                                             |
+| [Jekyll](http://jekyllrb.com/)      | Intermédiaire |                                                                                                             |
