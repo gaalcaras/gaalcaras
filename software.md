@@ -25,17 +25,14 @@ Code source disponible sur [Github](https://github.com/gaalcaras/mailingListScra
 
 ### Langages de programmation
 
-| Langage                                | Niveau        | Détails                                                                                              |
-| --------                               | ---------     | ---------                                                                                            |
-| [R](http://cran.r-project.org/)        | Avancé        | Connaissance approfondie de ggplot2, data.table, Shiny.                                              |
+| Langage                                | Niveau        | Détails                                                                                               |
+| --------                               | ---------     | ---------                                                                                             |
+| [R](http://cran.r-project.org/)        | Avancé        | Connaissance approfondie de ggplot2, data.table, Shiny.                                               |
 | [LaTeX](http://www.latex-project.org/) | Avancé        | J'utilise [latexmk](http://personal.psu.edu/jcc8//software/latexmk-jcc/) pour compiler mes documents. |
-| Python                                 | Intermédiaire |                                                                                                      |
-| JavaScript                             | Intermédiaire |                                                                                                      |
-| HTML/CSS                               | Intermédiaire |                                                                                                      |
-| PHP                                    | Basique       |                                                                                                      |
-| SQL                                    | Basique       |                                                                                                      |
-| Assembleur                             | Basique       |                                                                                                      |
-| Octave                                 | Basique       |                                                                                                      |
+| Python                                 | Intermédiaire |                                                                                                       |
+| JavaScript                             | Intermédiaire |                                                                                                       |
+| HTML/CSS                               | Intermédiaire |                                                                                                       |
+| PHP, SQL, Assembleur, Octave           | Basique       |                                                                                                       |
 
 ### Systèmes
 
