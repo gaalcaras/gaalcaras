@@ -32,5 +32,6 @@ theme: academic
 gems:
   - jekyll-feed
 exclude:
+  - jekyll_build.sh
   - Gemfile
   - Gemfile.lock
