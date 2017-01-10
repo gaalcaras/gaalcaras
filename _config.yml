@@ -26,6 +26,11 @@ nav_ext_links:
   - name: Blog
     url: https://sociologs.com
 
+# Piwik
+piwik:
+  url: batcloud.me/piwik
+  site_id: 2
+
 # Build settings
 markdown: redcarpet
 redcarpet:
