@@ -1,13 +1,18 @@
 # General settings
 title: Gabriel Alcaras
 title_html: "<b>ga</b>briel<b>alcaras</b>"
-description: >
-  Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques
-  et des méthodes quantitatives.
+description:
+  fr: Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques et des méthodes quantitatives.
+  en: Gabriel Alcaras is a PhD student in sociology, mostly working on digital issues and quantitative methods.
 baseurl: ""
 url: "https://gaalcaras.com"
 
-dateformat: "%e %B %Y" 
+langs: ["fr", "en"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "fr"
 
 # Author
 author: Gabriel Alcaras

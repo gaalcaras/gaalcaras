@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cours
-permalink: /cours/
+permalink: /fr/cours/
 ---
 
 ### Méthodes quantitatives avec R

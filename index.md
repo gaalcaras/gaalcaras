@@ -1,5 +1,8 @@
 ---
 layout: about
+title: Accueil
+permalink: /fr/
+invisible: true
 ---
 
 Sociologue, je me spécialise dans les questions numériques et les méthodes quantitatives.

@@ -23,4 +23,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-livereload"
    gem "redcarpet"
+   gem "jekyll-data"
 end

@@ -1,7 +1,7 @@
 ---
 title: Logiciels
 layout: page
-permalink: /software/
+permalink: /fr/logiciels/
 ---
 
 ## Projets logiciels

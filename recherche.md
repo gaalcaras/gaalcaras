@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recherche
-permalink: /recherche/
+permalink: /fr/recherche/
 ---
 
 ## Sociologie du numérique
@@ -21,4 +21,5 @@ Je suis membre du Comité de Rédaction de [RESET](http://reset.revues.org/) (Re
 
 ## Sociologie de l'éducation
 
-En collaboration avec [Pablo Zamith](https://pablozamith.squarespace.com/) (doctorant au [MaxPo](http://www.maxpo.eu/)), je travaille sur la réussite au concours de l'ENS de Paris. À partir d'un travail d'archives inédit sur les résultats du concours, nous travaillons actuellement sur les effets différenciés de la réussite en utilisant la méthode de la régression par discontinuité.
+En collaboration avec [Pablo Zamith](https://pablozamith.squarespace.com/) (doctorant au [MaxPo](http://www.maxpo.eu/)), je travaille sur la réussite au concours de l'ENS de Paris.
+À partir d'un travail d'archives inédit sur les résultats du concours, nous travaillons actuellement sur les effets différenciés de la réussite en utilisant la méthode de la régression par discontinuité.
