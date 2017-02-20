@@ -29,7 +29,9 @@ curriculum:
 # Nav menu
 nav_ext_links:
   - name: Blog
-    url: https://sociologs.com
+    url:
+      fr: https://sociologs.com/fr/
+      en: https://sociologs.com/en/
 
 # Piwik
 piwik:
