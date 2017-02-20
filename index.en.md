@@ -1,9 +1,11 @@
 ---
 layout: about
-title: Home
+title: Gabriel Alcaras
 lang: en
 permalink: /en/
 invisible: true
+seo:
+  title: Gabriel Alcaras, sociologist
 ---
 
 A sociologist by training, I specialize in digital issues and quantitative methods.

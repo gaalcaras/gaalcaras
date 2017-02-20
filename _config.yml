@@ -1,6 +1,6 @@
 # General settings
 title: Gabriel Alcaras
-title_html: "<b>ga</b>briel<b>alcaras</b>"
+title_html: "<b>ga</b>briel<b><span class=\"invisible\"> </span>alcaras</b>"
 description:
   fr: Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques et des méthodes quantitatives.
   en: Gabriel Alcaras is a PhD student in sociology, mostly working on digital issues and quantitative methods.
@@ -35,6 +35,11 @@ nav_ext_links:
 piwik:
   url: batcloud.me/piwik
   site_id: 2
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
 
 # Build settings
 markdown: redcarpet

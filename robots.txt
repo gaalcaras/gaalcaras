@@ -1,0 +1,2 @@
+Sitemap: https://gaalcaras.com/fr/sitemap.xml
+User-agent: *

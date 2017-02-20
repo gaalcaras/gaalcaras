@@ -1,8 +1,10 @@
 ---
 layout: about
-title: Accueil
+title: Gabriel Alcaras
 permalink: /fr/
 invisible: true
+seo:
+  title: Gabriel Alcaras, sociologue
 ---
 
 Sociologue, je me spécialise dans les questions numériques et les méthodes quantitatives.
