@@ -7,13 +7,15 @@ invisible: true
 
 Le but de cette page est de vous présenter clairement l'objet et les méthodes de ma thèse.
 Si vous lisez ces mots, il y a de fortes chances que je vous ai contacté pour y participer : dans ce cas, merci d'avoir pris le temps de cliquer sur ce lien !
-J'espère que cette page sera en mesure de répondre aux questions que vous vous posez.
+
+J'espère que cette page sera en mesure de répondre aux questions que vous vous posez, notamment pour quelles raisons je vous ai contacté et comment vous êtes susceptibles de m'aider.
 
 Si des éléments venaient à manquer, je vous invite à me le faire remarquer sur [Github](https://github.com/gaalcaras/gaalcaras/issues) afin que j'améliore ce document.
 
 <small>
 *English readers, there is a [translated version](/en/research-git/) of this page!*
 </small>
+
 
 ---
 
