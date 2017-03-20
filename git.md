@@ -9,7 +9,7 @@ Le but de cette page est de vous présenter clairement l'objet et les méthodes 
 Si vous lisez ces mots, il y a de fortes chances que je vous ai contacté pour y participer : dans ce cas, merci d'avoir pris le temps de cliquer sur ce lien !
 J'espère que cette page sera en mesure de répondre aux questions que vous vous posez.
 
-Si des éléments venaient à manquer, je vous invite à me le faire remarquer sur le [Github](https://github.com/gaalcaras/gaalcaras/issues) de ce site.
+Si des éléments venaient à manquer, je vous invite à me le faire remarquer sur [Github](https://github.com/gaalcaras/gaalcaras/issues) afin que j'améliore ce document.
 
 <small>
 *English readers, there is a [translated version](/en/research-git/) of this page!*
@@ -96,7 +96,7 @@ Dans ce cas, merci de me contacter par [email](mailto:contact@gaalcaras.com) pou
 
 # Votre accès à vos données
 
-Je suis extrêmement reconnaissant aux personnes qui acceptent de participer à mes entretiens et à ma thèse en général, qui contribuent à enrichir ma thèse.
+Je suis extrêmement reconnaissant aux personnes qui acceptent de participer à mes entretiens et à ma thèse en général, qui contribuent à enrichir ma recherche.
 Les données produites dans le cadre de ce processus appartiennent autant aux participants qu'à moi-même.
 
 C'est pourquoi vous pouvez me demander de vous envoyer les données vous concernant si vous en faites la demande explicite par [email](mailto:contact@gaalcaras.com).

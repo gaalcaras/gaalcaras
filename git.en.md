@@ -10,7 +10,7 @@ The goal of this page is to explain the goals and methods of my PhD.
 If you read these words, I have probably contacted you to participate in it: if so, thanks a lot for taking the time to click on the link!
 I hope this page will help you find answers to the questions you might have.
 
-If you have unanswered questions after reading it, feel free to open an issue on the [Github](https://github.com/gaalcaras/gaalcaras/issues) repo of the website.
+If you have unanswered questions after reading it, feel free to open an issue on [Github](https://github.com/gaalcaras/gaalcaras/issues) so I can improve this document.
 
 <small>
 *Lecteurs français, vous trouverez ici une [version traduite](/fr/recherche-git/) de cette page!*
@@ -27,9 +27,6 @@ If you have unanswered questions after reading it, feel free to open an issue on
 * [Your access to your data](#your-access-to-your-data)
 
 <!-- vim-markdown-toc -->
-
----
-
 # My PhD in three paragraphs
 
 Since September 2016, I've been working on a sociology PhD about `git`.
